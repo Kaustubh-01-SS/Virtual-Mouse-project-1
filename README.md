@@ -1,5 +1,12 @@
 # Virtual-Mouse-project-1
-First install Dependencies
+Install Python version 3.10
+First install Dependencies and libraries:
+
+py -3.10 -m venv venv
+venv\Scripts\activate
+
+pip install mediapipe==0.10.9 opencv-python pyautogui numpy
+
 
 AI Virtual Mouse Project
 
